@@ -1,0 +1,3 @@
+run "playwright install"
+
+To install browser binaries
